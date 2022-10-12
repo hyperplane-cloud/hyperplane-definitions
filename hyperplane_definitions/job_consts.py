@@ -1,6 +1,6 @@
 INITIAL_JOB_STATUS = "Queued"
 JOB_STARTED = "Starting"
-JOB_USER_CODE_RUNNING = "In Progress"
+JOB_USER_CODE_RUNNING = "Running Compute"
 JOB_USER_INSTALLING_REQUIREMENTS = "Installing Requirements"
 JOB_CANCELLED_BY_USER = "Cancelled"
 JOB_DONE = "Done"
